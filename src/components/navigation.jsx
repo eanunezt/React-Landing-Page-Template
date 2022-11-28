@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+         Preparate con INTERLEM'D 
           </a>{' '}
         </div>
 
@@ -27,22 +27,17 @@ export const Navigation = (props) => {
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
-                Features
-              </a>
+                Campus
+                </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
-              </a>
-            </li>
-            <li>
-              <a href='#services' className='page-scroll'>
-                Services
+                Nosotros
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Programas
               </a>
             </li>
             <li>
@@ -57,7 +52,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+              Contactanos
               </a>
             </li>
           </ul>

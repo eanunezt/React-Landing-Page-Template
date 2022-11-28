@@ -152,7 +152,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #5cfb64 0%, #186822 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -166,8 +166,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #d12727;
+  background-image: linear-gradient(to right, #c94848 0%, #d12828 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +184,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #f37b7b;
 }
 .btn:active,
 .btn.active {
@@ -216,7 +216,7 @@ a:focus,
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.5);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -234,10 +234,12 @@ a:focus,
 .intro p {
   color: #fff;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
+  background: rgba(0, 0, 0, 0.8);
+  
 }
 header .intro-text {
   padding-top: 350px;
@@ -257,7 +259,7 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #12ae05 0%, #266307 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
@@ -352,7 +354,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-  padding: 100px 0;
+  padding: 10px 15px 0; 
 }
 .portfolio-item {
   margin: 1px -15px 0 -14px;
@@ -361,7 +363,7 @@ header .intro-text {
 .portfolio-item .hover-bg {
   overflow: hidden;
   position: relative;
-  margin: 0;
+  margin: 5px;
 }
 .hover-bg .hover-text {
   position: absolute;
@@ -460,8 +462,8 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  color: rgba(255, 255, 255, 0.75);
+  background: linear-gradient(to right, #44b958 0%, #346624 100%);
+  color: rgba(255, 255, 255, 0.80);
 }
 #contact .section-title {
   margin-bottom: 40px;
@@ -604,3 +606,49 @@ label {
     margin: 50px 0;
   }
 }
+
+
+
+#portfolio .social {
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  text-align: right;
+  width: 100%;
+  
+}
+#portfolio .social ul li {
+  display: inline-block;
+  margin: 0 2px;  
+}
+
+#portfolio .social i.fa:hover {
+  color: #608dfd;
+  background: rgb(210, 208, 219, 0.15);
+}
+
+
+#portfolio .social i.fa {
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
+  padding: 2px 0;
+  border: 2px solid rgb(146, 141, 141);
+  color: rgb(121, 117, 117);
+  border-radius: 50%;
+  transition: all 0.3s;
+  text-align: center;
+}
+
+.prog_pop_content {
+  padding: 5px;
+
+}
+
+#prog_pop_content_id div ul {
+  font-size: 14px;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+/*#pr_id_1_content > div > div > ul > li:nth-child(1)
+#prog_pop_content_id > div > ul > li:nth-child(1) > span
+*/
