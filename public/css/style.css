@@ -243,7 +243,7 @@ a:focus,
 }
 header .intro-text {
   padding-top: 350px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
   text-align: center;
 }
 /* Features Section */
@@ -652,3 +652,109 @@ label {
 /*#pr_id_1_content > div > div > ul > li:nth-child(1)
 #prog_pop_content_id > div > ul > li:nth-child(1) > span
 */
+
+/* contact-simple Section */
+#contact-simple {
+  padding: 10px 0 6px;
+  background: linear-gradient(to right, rgb(3,34,8,0.6) 0%, rgb(56,97,43,0.1) 100%);
+  color: rgba(255, 255, 255, 0.80);
+  height: 330px;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  #contact-simple {
+    padding: 10px 0 6px;
+    background: linear-gradient(to right, rgb(3,34,8,0.6) 0%, rgb(56,97,43,0.1) 100%);
+    color: rgba(255, 255, 255, 0.80);
+    height: 480px;
+    margin-top: 10px;
+  }
+}
+#contact-simple .section-title {
+  margin-bottom: 40px;
+}
+#contact-simple .section-info p {
+  font-size: 16px;
+}
+#contact-simple h2 {
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  text-align: left;
+}
+#contact-simple .section-title h2::after {
+  position: absolute;
+  content: "";
+  background: rgba(255, 255, 255, 0.938);
+  height: 4px;
+  width: 60px;
+  bottom: 0;
+  left: 30px;
+}
+#contact-simple h3 {
+  color: #fff;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  font-weight: 400;
+}
+
+#contact-simple p {
+  /*padding-bottom: 5px;*/
+  background: rgba(0, 0, 0, 0);
+  margin-bottom: 5px;
+}
+#contact-simple form {
+  padding-top: 10px;
+}
+#contact-simple .text-danger {
+  color: #cc0033;
+  text-align: left;
+}
+
+#contact-simple .btn-custom {
+  margin: 15px 0;
+  background: transparent;
+  border: 2px solid #fff;
+}
+#contact-simple .btn-custom:hover {
+  color: #1f386e;
+  background: #fff;
+}
+#contact-simple .form-control {
+  display: block;
+  width: 100%;
+  padding: 6px 12px;
+  font-size: 16px;
+  line-height: 1.42857143;
+  color: #444;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ddd;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+}
+#contact-simple .form-control:focus {
+  border-color: #999;
+  outline: 0;
+  -webkit-box-shadow: transparent;
+  box-shadow: transparent;
+}
+.form-control::-webkit-input-placeholder {
+  color: #777;
+}
+.form-control:-moz-placeholder {
+  color: #777;
+}
+.form-control::-moz-placeholder {
+  color: #777;
+}
+.form-control:-ms-input-placeholder {
+  color: #777;
+}

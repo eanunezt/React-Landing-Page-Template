@@ -1,9 +1,8 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect }  from 'react';
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
-import { Services } from "./components/services";
 import { Program } from "./components/program";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
@@ -36,6 +35,7 @@ const App = () => {
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
+     
     </div>
   );
 };

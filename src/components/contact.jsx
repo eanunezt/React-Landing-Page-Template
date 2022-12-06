@@ -1,13 +1,16 @@
-import { useState } from 'react'
-import emailjs from 'emailjs-com'
+import React, { useState } from 'react'
+import * as util from './../utils/utils.js'
 
 const initialState = {
   name: '',
-  email: '',
-  message: '',
+  phone: '',
+}
+
+const sucess = {
+  sucessMessage: null,
 }
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState)
+  const [{ name, phone }, setState] = useState(initialState)
 
   const handleChange = (e) => {
     const { name, value } = e.target
@@ -17,21 +20,30 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    console.log(name, email, message)
-    emailjs
-      .sendForm(
-        'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', e.target, 'YOUR_USER_ID'
-      )
-      .then(
-        (result) => {
-          console.log(result.text)
-          clearState()
-        },
-        (error) => {
-          console.log(error.text)
-        }
-      )
+    if(name.length<3  || phone.length<10 || !containsOnlyNumbers(phone)){
+      sucess.sucessMessage="Por favor ingrese sus datos completos."
+      setState((prevState) => ({ ...prevState, sucess}))
+    }
+    else {
+      util.sendMessge('Nombre:'+name+'\n Celular:'+ phone)
+    .then(
+      (result) => {
+        console.log("result.text",result)
+        sucess.sucessMessage="Datos enviados."
+        clearState();
+      },
+      (error) => {
+        console.log(error.text)
+      }
+    );
+    }
+
   }
+
+  function containsOnlyNumbers(str) {
+    return /^\d+$/.test(str);
+  }
+
   return (
     <div>
       <div id='contact'>
@@ -41,11 +53,12 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>Contactanos</h2>
                 <p>
-                Complete el siguiente formulario para enviarnos un correo electrónico 
-                y lo responderemos tan pronto como sea posible.
+                Complete el siguiente formulario para enviarnos sus datos de contacto 
+                y le responderemos tan pronto como sea posible.
+                
                 </p>
               </div>
-              <form name='sentMessage' validate onSubmit={handleSubmit}>
+              <form name='sentMessage' validate="true" onSubmit={handleSubmit}>
                 <div className='row'>
                   <div className='col-md-6'>
                     <div className='form-group'>
@@ -53,8 +66,9 @@ export const Contact = (props) => {
                         type='text'
                         id='name'
                         name='name'
+                        value={name}
                         className='form-control'
-                        placeholder='Name'
+                        placeholder='Nombre'
                         required
                         onChange={handleChange}
                       />
@@ -64,11 +78,12 @@ export const Contact = (props) => {
                   <div className='col-md-6'>
                     <div className='form-group'>
                       <input
-                        type='email'
-                        id='email'
-                        name='email'
+                        type='phone'
+                        id='phone'
+                        value={phone}
+                        name='phone'
                         className='form-control'
-                        placeholder='Email'
+                        placeholder='# Celular'
                         required
                         onChange={handleChange}
                       />
@@ -76,21 +91,18 @@ export const Contact = (props) => {
                     </div>
                   </div>
                 </div>
-                <div className='form-group'>
-                  <textarea
-                    name='message'
-                    id='message'
-                    className='form-control'
-                    rows='4'
-                    placeholder='Message'
-                    required
-                    onChange={handleChange}
-                  ></textarea>
-                  <p className='help-block text-danger'></p>
+                <div className='section-info'>
+                <p>
+                Al enviar mis datos de contacto acepto los térmisocs y condiciones (<a href='https://itinterlemd.github.io/pages/terminos' target="_blank" rel="noopener noreferrer" style={{color:'white'}}>Ver</a>).                
+                </p>
                 </div>
-                <div id='success'></div>
+                <div id='success'>
+                  <p>
+                  {sucess.sucessMessage?sucess.sucessMessage:''}              
+                  </p>
+                </div>
                 <button type='submit' className='btn btn-custom btn-lg'>
-                  Enviar Mensaje
+                  Enviar
                 </button>
               </form>
             </div>
@@ -150,9 +162,9 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 INTERLEM'D Page
+            &copy; 2022 INTERLEM'D Page  
             <a href='https://instituto.interlemd.edu.co' rel='nofollow'>
-           INSTITUI TÉCNICO LABORAL INTERLEM'D
+             - INSTITUTO TÉCNICO LABORAL INTERLEM'D
             </a>
           </p>
         </div>

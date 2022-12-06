@@ -1,4 +1,4 @@
-import { Image } from "./image";
+import { ContactSimple } from "./contact-simple";
 export const Header = (props) => {
   return (
     <header id='header'>
@@ -10,16 +10,34 @@ export const Header = (props) => {
                 
               {props.data ? 
               <div key='imageHeader' >
-                  <Image title={props.data.title} largeImage={props.data.largeImage} smallImage={props.data.smallImage} />
-                </div>: 'Loading'}
+                  <div className='portfolio-item'>
+                    <div className='hover-bg'>
+                      {' '}
+                      
+                        <div className='hover-text'>
+                          <h4>{props.data.title}</h4>
+                        </div>
+                        <img
+                          src={props.data.smallImage}
+                          className='img-responsive'
+                          alt={props.data.title}
+                        />{' '}
+
+                        
+                    
+                    </div>
+                  </div>
+
+                </div>: 'Loading'}              
 
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
-                <a href='#features'
-                className='btn btn-custom btn-lg page-scroll'>
-                  Aprende Más
-                </a>{' '}
+                {' '}                
+                <ContactSimple></ContactSimple>
+
               </div>
-            </div>
+             
+              
+            </div>            
           </div>
         </div>
       </div>

@@ -36,7 +36,7 @@ export const  MediaCard = ({ contact, title, summary, smallImage, html }) =>  {
   return (
   <div className='portfolio-item'>
     <div className='hover-bg'>
-    <Card sx={{ maxWidth: 345, minHeight:305 }}>
+    <Card sx={{ maxWidth: 345, minHeight:320 }}>
       <CardMedia
         component="img"
         height="140"
