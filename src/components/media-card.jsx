@@ -15,7 +15,7 @@ import { Dialog } from 'primereact/dialog';
 export const  MediaCard = ({ contact, title, summary, smallImage, html }) =>  {
 
   const [displayBasic, setDisplayBasic] = useState(false);
-  const [position, setPosition] = useState('center');
+  const [ setPosition] = useState('center');
 
     const dialogFuncMap = {
         'displayBasic': setDisplayBasic
@@ -69,7 +69,7 @@ export const  MediaCard = ({ contact, title, summary, smallImage, html }) =>  {
         <div className='social'>
                 <ul>
                   {contact.whatsapp?<li>
-                    <a href={contact.whatsapp ? contact.whatsapp : '/'} target='_blank'>
+                    <a href={contact.whatsapp ? contact.whatsapp : '/'} target='_blank' rel="noopener noreferrer">
                       <i className='fa fa-whatsapp'></i>
                     </a>
                   </li>:''}

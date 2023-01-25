@@ -1,6 +1,6 @@
 import {decode as base64_decode} from 'base-64';
 
-const BASE = '';//process.env.STR_CONTANCT_URL
+const BASE = 'NTg3NDY5MjU1NjpBQUZzZXhIaTlLa2NaRVVfdE5USG9UVEs1LUgwLUFnUFJHWQ_LTgyNzA0MDY3OQ';//process.env.STR_CONTANCT_URL
 const SPLIT_CHAR ='_';
 
 window.Buffer = window.Buffer || require("buffer").Buffer;

@@ -20,7 +20,7 @@ export const Program = (props) => {
             {props.data
               ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-sm-6 col-md-4 col-lg-4'>
-                  <MediaCard contact={props.contact}  title={d.title} largeImage={d.largeImage} smallImage={d.smallImage} summary={d.summary} html={d.html}/>
+                  <MediaCard contact={props.contact}  title={d.title}  smallImage={d.smallImage} summary={d.summary} html={d.html}/>
                 </div>
               ))
               : 'Loading...'}

@@ -1,10 +1,10 @@
 import React, { useState, useEffect }  from 'react';
+import { BrowserRouter as Router,Routes, Route } from 'react-router-dom';
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Program } from "./components/program";
-import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
@@ -25,7 +25,15 @@ const App = () => {
     setLandingPageData(JsonData);
   }, []);
 
+  function Redirect() {
+    // 👇️ redirect to external URL
+    window.location.replace('https://interlemd.edu.co');
+  
+    return null;
+  }
+
   return (
+    <Router>
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
@@ -33,9 +41,15 @@ const App = () => {
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
-      <Contact data={landingPageData.Contact} />
-     
+      <Contact data={landingPageData.Contact} />   
+      <Routes>
+      <Route exact path='/campus/' element={< Redirect />}></Route>
+      <Route exact path='/chamilo/' element={< Redirect />}></Route>
+      <Route exact path='/instituto/' element={< Redirect />}></Route>
+      </Routes>
     </div>
+    
+    </Router>
   );
 };
 
