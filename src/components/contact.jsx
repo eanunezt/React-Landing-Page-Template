@@ -51,7 +51,7 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Contactanos</h2>
+                <h2>Contáctanos</h2>
                 <p>
                 Complete el siguiente formulario para enviarnos sus datos de contacto 
                 y le responderemos tan pronto como sea posible.
@@ -158,7 +158,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2022 INTERLEM'D Page  
+            &copy; 2023 INTERLEM'D Page  
             <a href='https://instituto.interlemd.edu.co' rel='nofollow'>
              - INSTITUTO TÉCNICO LABORAL INTERLEM'D
             </a>

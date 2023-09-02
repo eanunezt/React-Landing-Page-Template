@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-         Preparate con INTERLEM'D 
+         Prepárate con INTERLEM'D 
           </a>{' '}
         </div>
 
@@ -52,7 +52,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#contact' className='page-scroll'>
-              Contactanos
+              Contáctanos
               </a>
             </li>
           </ul>

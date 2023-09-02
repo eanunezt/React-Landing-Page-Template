@@ -55,7 +55,7 @@ export const ContactSimple = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>Contactanos</h2>
+                <h2>Contáctanos</h2>
                 <p>
                 Envía tus datos de contacto y te llamaremos tan pronto como sea posible.                
                 </p>

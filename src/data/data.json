@@ -338,6 +338,16 @@
       "img": "img/team/03.jpg",
       "name": "Luz Stella Sánchez",
       "job": "Directora y Docente"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Daniel David Durán",
+      "job": "Docente"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Daniel David Durán",
+      "job": "Administrativo y Docente"
     }
   ],
   "Contact": {
@@ -353,17 +363,20 @@
     {
       "icon": "fa fa-group",
       "title": "Estudiante",
-      "text": "Ingreso al Campus Virtual."
+      "text": "Ingreso al Campus Virtual.",
+      "href":"https://campus.interlemd.edu.co"
     },
     {
       "icon": "fa fa-pencil-square",
       "title": "Docente",
-      "text": "Ingreso al Campus Virtual."
+      "text": "Ingreso al Campus Virtual.",
+      "href":"https://campus.interlemd.edu.co"
     },
     {
       "icon": "fa fa-sitemap",
       "title": "Administrativo",
-      "text": "Ingreso a Platforma."
+      "text": "Ingreso a Platforma.",
+      "href":"https://p3i.interlemd.online"
     }
    
   ]
