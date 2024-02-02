@@ -1,70 +1,269 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Instituto Técnico Laboral INTERLEM'D",
+    "paragraph": "Inscripciones abiertas! Presencial y Remoto 📲3142981372 - 3147616418",
+    "largeImage": "img/logo_itli.png",
+    "smallImage": "img/logo_itli.png"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "El Instituto Técnico Laboral INTERLEM’D - ITLI, es una institución de educación, con vocación técnica laboral, autónoma e independiente, que propicia el desarrollo de pensamiento, la libertad, la tolerancia y el respeto a la diversidad. Nuestro propósito fundamental es la formación integral de los Estudiantes, en competencias laborales y sociales, además, de crear una cultura para el cuidado del medio ambiente, trabajo en equipo y la responsabilidad social. Como Institución educativa, valora el amor, la libertad, la solidaridad, la equidad y el respeto de los otros como un legítimo otro.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Calidad",
+      "Experiencia",
+      "Profesionalismo",
+      "Agiles"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Valores éticos",
+      "Respeto",
+      "Tolerancia"
     ]
   },
-  "Gallery": [
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
-    }
-  ],
+  "Program": [ {
+    "id" : 1,
+    "title" : "Auxiliar de Sistemas Informáticos",
+    "summary" : "Aprende arquitectura de computadores, base de datos y programación.",
+    "largeImage" : "img/portfolio/01-large.jpg",
+    "smallImage" : "img/portfolio/01-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #e9f5f9;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL EN AUXILIAR DE SISTEMAS INFORM&Aacute;TICOS&nbsp;</strong></span></td></tr></tbody></table><p><strong></strong></p><p><strong>N&uacute;mero de Registro</strong>: 0164</p><p><span>El T&eacute;cnico Laboral por Competencias en Auxiliar de Sistemas Inform&aacute;ticos tendr&aacute; conocimientos y competencias para realizar funciones de apoyo administrativo de acuerdo con procedimientos establecidos, gu&iacute;as, manuales y proceso administrativo. Est&aacute;n empleados por el sector p&uacute;blico y privado. Adem&aacute;s, con el &eacute;nfasis en programaci&oacute;n estar&aacute;n en capacidad de gestionar bases de datos y sistemas de informaci&oacute;n. </span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias: </span></p><ul><li><span>Atender requerimientos de los usuarios de acuerdo con procedimientos t&eacute;cnicos y normativa vigente. </span></li><li><span>Instalar y ensamblar equipos de c&oacute;mputo seg&uacute;n manual y especificaciones t&eacute;cnicas. </span></li><li><span>Mantener y reparar equipos de c&oacute;mputo seg&uacute;n procedimiento t&eacute;cnico. </span></li><li><span>Instruir en el uso de herramientas inform&aacute;ticas de acuerdo con las necesidades de manejo de informaci&oacute;n.</span></li><li>Manejar herramientas inform&aacute;ticas de acuerdo con necesidades de informaci&oacute;n y manuales t&eacute;cnicos.</li><li><span>Elaborar informe t&eacute;cnico de mantenimiento y/o reparaci&oacute;n seg&uacute;n procedimientos y protocolo de servicio. </span></li><li><span>Registrar informaci&oacute;n de acuerdo con normativa y procedimiento t&eacute;cnico.</span></li></ul><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 2,
+    "title" : "Auxiliar Administrativo",
+    "summary" : "Aprende Administración, Finanzas y el desarrollo de diversas actividades propias de la administración",
+    "largeImage" : "img/portfolio/02-large.jpg",
+    "smallImage" : "img/portfolio/02-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #74c69d;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR ADMINISTRATIVO </strong></span></td></tr></tbody></table><p><strong></strong></p><p><strong>N&uacute;mero de Registro</strong>: 0812</p><p><span>El T&eacute;cnico Laboral por Competencias en auxiliar Administrativo tendr&aacute; conocimientos y competencias para realizar funciones de apoyo administrativo de acuerdo con procedimientos establecidos, gu&iacute;as, manuales y proceso administrativo. Est&aacute;n empleados por el sector p&uacute;blico y privado.</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias: </span></p><ul><li><span>Mantener los documentos de gesti&oacute;n de acuerdo con normativa y proceso administrativo. </span></li><li><span>Atender clientes de acuerdo con procedimiento de servicios y normativa. </span></li><li><span>Realizar actividades de digitaci&oacute;n de acuerdo con est&aacute;ndares y procedimientos t&eacute;cnicos. </span></li><li><span>Elaborar documentos de la unidad administrativa de acuerdo con lineamientos de la organizaci&oacute;n, gu&iacute;a y procedimientos t&eacute;cnicos. </span></li><li><span>Tramitar pedidos de la unidad administrativa de acuerdo al procedimiento t&eacute;cnico.</span></li></ul><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 3,
+    "title" : "Auxiliar Contable y Financiero",
+    "summary" : "Aprende Contabilidad, Finanzas y Administración. Conoce las bases de la contabilidad empresarial.",
+    "largeImage" : "img/portfolio/03-large.jpg",
+    "smallImage" : "img/portfolio/03-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #f4d35e;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR CONTABLE Y FINANCIERO&nbsp;</strong></span></td></tr></tbody></table><p><strong>N&uacute;mero de Registro</strong>: 0809<br /><strong></strong></p><p><span>El profesional certificado en T&eacute;cnico Laboral por Competencias en Auxiliar Contable y Financiero demuestra habilidades y destrezas para desempe&ntilde;arse de manera eficiente en su entorno laboral, capaz de interpretar, comprender y aplicar adecuadamente las normas contables y fiscales para el manejo eficiente de los recursos, desempe&ntilde;&aacute;ndose con sentido &eacute;tico y moral.</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;arse como: </span></p><ul><li><span>Auxiliar contable y financiero. </span></li><li><span>Auxiliar de tesorer&iacute;a </span></li><li><span>Auxiliar de costos y presupuestos </span></li><li><span>Auxiliar de n&oacute;mina. </span></li><li><span>Auxiliar de cartera </span></li><li><span>Jefe de inventarios, compras y almac&eacute;n. </span></li></ul><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 4,
+    "title" : "Auxiliar de Preescolar",
+    "summary" : "Ciencias sociales, educativas, religiosas y servicios gubernamentales.",
+    "largeImage" : "img/portfolio/04-large.jpg",
+    "smallImage" : "img/portfolio/04-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #ff8fa3;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR DE PREESCOLAR &nbsp;</strong></span></td></tr></tbody></table><p><strong>N&uacute;mero de Registro</strong>: 0811</p><p><strong></strong><span style=\"font-weight: 400;\">T&eacute;cnico Laboral por Competencias en Auxiliar de Preescolar formado en competencias b&aacute;sicas, ciudadanas y laborales espec&iacute;ficas de educaci&oacute;n inicial, demuestra habilidades y destrezas para desempe&ntilde;arse de manera eficiente en su entorno laboral, capaz de promover, proteger y restaurar los derechos y responsabilidades de la primera infancia, orientar las pr&aacute;cticas educativas, divulgar acciones de salud de acuerdo con protocolos de pol&iacute;ticas nacionales.&nbsp;</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;arse como: </span></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar de Preescolar</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar en Primera Infancia</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar de Guarder&iacute;a Infantil</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar de Jard&iacute;n Infantil</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar del Educador Infantil</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Auxiliar de Maestro de Educaci&oacute;n Inicial</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Asistente de Preescolar</span><span style=\"font-weight: 400;\"></span></li></ul><p><span style=\"font-weight: 400;\"><span><strong> Competencias:&nbsp;</strong>Capacidad para la atenci&oacute;n de ni&ntilde;os (as) en edad preescolar. Protecci&oacute;n, restauraci&oacute;n de los derechos y responsabilidades de la primera infancia. Pr&aacute;cticas educativas y divulgaci&oacute;n de acciones de salud de acuerdo con protocolos de pol&iacute;ticas nacionales. Pedag&oacute;gica Infantil.</span></span></p><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 5,
+    "title" : "Auxiliar de Seguridad Ocupacional y Laboral",
+    "summary" : "Aprende Seguridad Laboral, Finanzas y Administración.",
+    "largeImage" : "img/portfolio/05-large.jpg",
+    "smallImage" : "img/portfolio/05-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #e8eddf;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR DE SEGURIDAD OCUPACIONAL Y LABORAL&nbsp;&nbsp;</strong></span></td></tr></tbody></table><p><strong>N&uacute;mero de Registro</strong>: 0814</p><p><strong></strong><span style=\"font-weight: 400;\"><span> El T&eacute;cnico T&eacute;cnico Laboral por Competencias en Auxiliar en Seguridad Ocupacional y Laboral, tendr&aacute; conocimientos y competencias para apoyar t&eacute;cnicamente en la ejecuci&oacute;n de estrategias para la prevenci&oacute;n de accidentes laborales a trav&eacute;s seguridad industrial, intervenci&oacute;n del riesgo laboral de una manera integral y planteamiento de soluciones que incidan en el control de los accidentes y riesgos laborales. As&iacute; mismo, el egresado estar&aacute; en la capacidad de apoyar las actividades bajo la supervisi&oacute;n de un profesional en Salud Ocupacional, orientadas a apoyar en la prevenci&oacute;n de riesgos laborales.</span>&nbsp;</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias:</span></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Apoyar pr&aacute;cticas seguras y saludables en los ambientes de trabajo con el apoyo en la investigaci&oacute;n y desarrollo de la planeaci&oacute;n de actividades que promuevan un ambiente apropiado a los trabajadores. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Realizar actividades de articulaci&oacute;n con la gesti&oacute;n ambiental en el manejo integral de residuos, as&iacute; como identificaci&oacute;n, fuentes, clasificaci&oacute;n y aprovechamiento de estos. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Monitorear y reportar el cumplimiento de la normatividad relacionada con las condiciones seguras y saludables en el trabajo. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Identificar, inspeccionar y registrar riesgos en el desarrollo de las actividades en el trabajo. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Apoyar la implementaci&oacute;n, registro y seguimiento del sistema y programas de gesti&oacute;n de seguridad ocupacional, higiene, ambientales y de seguridad industrial.</span></li></ul><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 6,
+    "title" : "Auxiliar de Talento Humano",
+    "summary" : "Aprende Administración y Gestión de Personal.",
+    "largeImage" : "img/portfolio/06-large.jpg",
+    "smallImage" : "img/portfolio/06-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #f4a259;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR DE TALENTO HUMANO </strong></span></td></tr></tbody></table><p><strong>N&uacute;mero de Registro</strong>: 0813</p><p><strong></strong><span>El T&eacute;cnico Laboral por Competencias en Auxiliar de Talento Humano, tendr&aacute; conocimientos y competencias para apoyar a los profesionales y asistentes de talento humano. Recopilan, actualizan y tramitan informaci&oacute;n de los procesos de gesti&oacute;n humana. Est&aacute;n empleados por departamentos de personal en el sector p&uacute;blico y privado.&nbsp;</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias:</span></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Tramitar, verificar y registrar informaci&oacute;n relacionada con el personal, como selecci&oacute;n, ingreso, entrenamiento y evaluaci&oacute;n del desempe&ntilde;o. &middot;</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Actualizar el archivo manual o sistematizado de hojas de vida de acuerdo con procedimientos organizacionales. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Apoyar la elaboraci&oacute;n de informes y documentos relacionados con las actividades del personal de acuerdo con procedimientos organizacionales.</span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Apoyar el proceso de reclutamiento seg&uacute;n pol&iacute;ticas y procedimientos organizacionales. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Brindar informaci&oacute;n relacionada con los procesos de gesti&oacute;n humana de acuerdo con procedimientos organizacionales.</span>.</li></ul><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 7,
+    "title" : "Auxiliar de Turismo Ecológico",
+    "summary" : "Aprende Ventas y servicios de turismo.",
+    "largeImage" : "img/portfolio/07-large.jpg",
+    "smallImage" : "img/portfolio/07-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #b2ff9e;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL POR COMPETENCIAS EN AUXILIAR DE TURISMO ECOLOGICO</strong></span></td></tr></tbody></table><p><strong>N&uacute;mero de Registro</strong>: 0810</p><p><strong></strong><span>El t&eacute;cnico Laboral por Competencias en Auxiliar de Turismo Ecol&oacute;gico se formar&aacute; con capacidades de idear, desarrollar y promover apuestas de gesti&oacute;n de turismo basado en el recurso natural de los territorios, desde una apuesta sostenible y protector, con enfoques ecotur&iacute;sticos y ecol&oacute;gicos con miras a lograr altos est&aacute;ndares de calidad, respondiendo a las necesidades del turista nacional y extranjero.&nbsp;</span></p><p><strong>Campo ocupacional</strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;arse como:</span></p><ul><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Promotor en la creaci&oacute;n de emprendimiento tur&iacute;sticos. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Gu&iacute;a Ecotur&iacute;stico. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Gu&iacute;a Excursionista. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Gu&iacute;a de parque naturales. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Gu&iacute;a Tur&iacute;stico. </span></li><li style=\"font-weight: 400;\" aria-level=\"1\"><span>Gu&iacute;a de viaje</span></li></ul><p><b>Competencias:&nbsp;</b>Identificar, ubicar, organizar, controlar y utilizar racional y eficientemente los recursos disponibles, en la realizaci&oacute;n de proyectos y actividades. Orientaci&oacute;n al servicio, seguridad personal, autocontrol personal, discreci&oacute;n, etiqueta y protocolo y manejo de herramientas de informaci&oacute;n</p><p><strong>Requisitos</strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  },  
+  {
+    "id" : 26,
+    "title" : "Cuidado Estético de Manos y Pies",
+    "summary" : "Aprende tratamientos, ventas de cosméticos y servicios   de manicura y pedicura.",
+    "largeImage" : "img/portfolio/26-large.jpg",
+    "smallImage" : "img/portfolio/26-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #abebc6;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span> <strong> T&Eacute;CNICO LABORAL EN CUIDADO EST&Eacute;TICO DE MANOS Y PIES&nbsp; </strong> </span></td></tr></tbody></table><p><strong> </strong></p><p><strong> N&uacute;mero de Registro </strong> : 1098&nbsp;</p><p>El T&eacute;cnico Laboral en cuidado est&eacute;tico de manos y pies, tendr&aacute; conocimientos y competencias para Brindar servicios de manicura y pedicura, tratamientos cosm&eacute;ticos en manos y pies, elaboraci&oacute;n y aplicaci&oacute;n de u&ntilde;as artificiales, en condiciones bioseguras. Vender productos cosm&eacute;ticos para las u&ntilde;as y la piel de manos y pies.</p><p><span> . </span></p><p><strong> Campo ocupacional </strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias: </span></p><ul><li>Desarrollo de manicura y pedicura seg&uacute;n procedimiento cosm&eacute;tico.</li><li>Adaptaci&oacute;n de u&ntilde;as artificiales seg&uacute;n t&eacute;cnicas est&eacute;ticas.</li><li>Decoraci&oacute;n u&ntilde;as seg&uacute;n procedimientos y t&eacute;cnicas cosm&eacute;ticas.</li><li>Organizaci&oacute;n de la zona de trabajo, herramientas, instrumentos y equipamiento en condiciones bioseguras seg&uacute;n la normativa legal vigente en peluquer&iacute;as, barber&iacute;as, centros de belleza y est&eacute;tica.</li><li>Atenci&oacute;n a clientes de acuerdo con procedimiento de servicio y normativa.</li></ul><p><strong> Requisitos </strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 27,
+    "title" : "Estilista y Barbero",
+    "summary" : "Aprende técnicas de peluquería para el cuidado  del cabello, cuero cabelludo y pelo facial.",
+    "largeImage" : "img/portfolio/27-large.jpg",
+    "smallImage" : "img/portfolio/27-small.jpg",
+    "category" : "TECNICO_LABORAL",
+    "urlShared" : "",
+    "html" : "<table border=\"1\" style=\"height: 32px; width: 99.669%; border-collapse: collapse;\" height=\"161\"><tbody><tr style=\"height: 18px; background-color: #f4d03f;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span><strong>T&Eacute;CNICO LABORAL EN ESTILISTA Y BARBERO&nbsp;&nbsp;</strong> </span></td></tr></tbody></table><p><strong> </strong></p><p><strong> N&uacute;mero de Registro </strong> : 1097&nbsp;</p><p>El T&eacute;cnico Laboral en Estilista y Barbero, tendr&aacute; conocimientos y competencias para Aplicar t&eacute;cnicas de peluquer&iacute;a para el cuidado, modificaci&oacute;n y embellecimiento cosm&eacute;tico del cabello, cuero cabelludo y pelo facial en condiciones bioseguras.&nbsp; Orientar la imagen del cliente con t&eacute;cnicas de estilismo capilar, vender productos cosm&eacute;ticos capilares.</p><p><strong> Campo ocupacional </strong></p><p><span> Los egresados del programa podr&aacute;n desempe&ntilde;ar las siguientes competencias: </span></p><ul><li>Aplicar tratamiento capilar seg&uacute;n t&eacute;cnicas de higiene y cosm&eacute;tica.</li><li>Cortar cabello seg&uacute;n l&iacute;neas de dise&ntilde;o y procedimiento t&eacute;cnico.</li><li>Cortar pelo facial seg&uacute;n t&eacute;cnicas y normativa de peluquer&iacute;a.</li><li>Mantener la zona de trabajo, herramientas, instrumentos y equipamiento en condiciones bioseguras seg&uacute;n la normativa legal vigente en peluquer&iacute;as, barber&iacute;as, centros de belleza y est&eacute;tica.</li><li>Vender productos y servicios de acuerdo con las necesidades del cliente y objetivos comerciales.</li><li>Atender clientes de acuerdo con procedimiento de servicio y normativa.</li></ul><p><strong> Requisitos </strong></p><ul><li>Nivel Educativo: Noveno grado aprobado</li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.</li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  },{
+    "id" : 8,
+    "title" : "Diplomado en Pedagogía Infantil",
+    "summary" : "Aprende técnicas de Innovación en pedagogía Infantil.",
+    "largeImage" : "img/portfolio/08-large.jpg",
+    "smallImage" : "img/portfolio/08-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #fffb94; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN INNOVACI&Oacute;N DE PEDAGOG&Iacute;A INFANTIL</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.<br /></strong>En el Diplomado en Innovaci&oacute;n de Pedagog&iacute;a Infantil se forma al estudiante en t&eacute;cnicas que permiten crear ambientes de aprendizaje modernos, con capacidades pedag&oacute;gicas, did&aacute;cticas y l&iacute;deres en la educaci&oacute;n de la primera infancia.<span><strong><br /></strong></span></p><p><span><br /></span><strong>Campo ocupacional</strong></p><p><span>Los egresados del diplomado podr&aacute;n desarrollar las siguientes competencias:&nbsp;</span></p><ul><li><span> Capacidad para la atenci&oacute;n de ni&ntilde;os (as) en edad preescolar </span></li><li><span>Pedag&oacute;gica Infantil. </span></li><li><span>T&eacute;cnicas de Innovaci&oacute;n</span></li></ul><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 9,
+    "title" : "Diplomado en Asistencia Administrativa",
+    "summary" : "Adquiere conocimientos y competencias para realizar funciones de apoyo administrativo.",
+    "largeImage" : "img/portfolio/09-large.jpg",
+    "smallImage" : "img/portfolio/09-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #20dad7; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN ASISTENCIA ADMINISTRATIVA</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.<br /></strong></p><p><span><strong><br /></strong>En el Diplomado en Asistencia Administrativa obtendr&aacute; conocimientos y competencias para realizar funciones de apoyo administrativo de acuerdo con procedimientos establecidos, gu&iacute;as, manuales y procesos administrativos.</span></p><p><span><strong></strong></span><span></span><strong>Campo ocupacional</strong></p><p><span></span>Los egresados del programa podr&aacute;n desempe&ntilde;ar las competencias siguientes:</p><ul><li>Mantener y elaborar los documentos de gesti&oacute;n de acuerdo con normativa y proceso administrativo.</li><li>Atender clientes de acuerdo con procedimiento de servicios y normativa.</li></ul><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 10,
+    "title" : "Diplomado en Culinaria y Gastronomía",
+    "summary" : "Aprende técnicas de Culinaria y Gastronomía.",
+    "largeImage" : "img/portfolio/10-large.jpg",
+    "smallImage" : "img/portfolio/10-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #b5c2f0; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN CULINARIA Y GASTRONOM&Iacute;A</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.<br /></strong></p><p><span><strong><br /></strong>Conocer&aacute;s diferentes t&eacute;cnicas de cocci&oacute;n y combinaci&oacute;n de alimentos. Prepara y presenta platos gourmet, aprende a utilizar los alimentos sin perder los nutrientes y sobre todo aprovechando al m&aacute;ximo el sabor que los caracteriza. <br /></span></p><p><span><strong></strong></span><span></span><strong>Campo ocupacional</strong></p><p><span></span>Los egresados del diplomado podr&aacute;n desempe&ntilde;ar las competencias siguientes:</p><ul><li>Organizar y dise&ntilde;ar el men&uacute;</li><li>Creaci&oacute;n de platos</li><li>Realizar labores administrativas</li><li>Actualizaci&oacute;n de la oferta culinaria</li><li>Aplicar tecnicas culinarias e innovar</li><li>Dosificar los alimentos</li><li>Gesti&oacute;n de los productos</li><li>Controlar el efectivo desarrollo de los platos</li></ul><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 11,
+    "title" : "Diplomado en inglés",
+    "summary" : "Aprende inglés fácil y rápido.",
+    "largeImage" : "img/portfolio/11-large.jpg",
+    "smallImage" : "img/portfolio/11-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #f7f8e0; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN INGL&Eacute;S</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.<br /></strong></p><p><span><strong><br /></strong>El Diplomado en ingl&eacute;s est&aacute; dise&ntilde;ado para cualquier persona, aprender&aacute;s las bases del Ingl&eacute;s de forma f&aacute;cil con un contenido puntual y llamativo. Al finalizar este curso, el estudiante ser&aacute; capaz de expresar sus ideas en el idioma Ingl&eacute;s sin miedo.&nbsp;</span></p>"
+  }, {
+    "id" : 12,
+    "title" : "Diplomado en Desarrollo y Nuevas Tecnologías",
+    "summary" : "Programación Web, API REST y Bases de Datos",
+    "largeImage" : "img/portfolio/12-large.jpg",
+    "smallImage" : "img/portfolio/12-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #00ff40; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN DESARROLLO Y NUEVAS TECNOLOG&Iacute;AS</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.<br /></strong></p><p><span><strong><br /></strong>El estudiante se capacitar&aacute; en la construcci&oacute;n de aplicaciones web din&aacute;micas, usando lenguajes de programaci&oacute;n TypeScript y Java, motor de bases de datos PostgreSQL y definici&oacute;n de arquitecturas agiles con talleres pr&aacute;cticos guiados, talleres auto pr&aacute;cticos, clases magistrales y proyecto final fundamentado, durante la ejecuci&oacute;n del programa..&nbsp;<br /></span></p><p><span><strong></strong></span><span></span><strong>Dirgido a:&nbsp;</strong></p><p><span></span>Estudiantes y profesionales en tecnolog&iacute;as de informaci&oacute;n TI, que requieran aprender o profundizar el desarrollo de aplicaciones empresariales o sitios web utilizando lenguajes de programaci&oacute;n multiplataforma libres y &aacute;giles, y dem&aacute;s personas interesadas en este tema.</p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 13,
+    "title" : "Diplomado en Uso de Herramientas para Big Data",
+    "summary" : "Aprende a trabajar con Big Data y a utilizar herramientas modernas.",
+    "largeImage" : "img/portfolio/13-large.jpg",
+    "smallImage" : "img/portfolio/13-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #f7f8e0; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN USO DE HERRAMIENTAS PARA BIG DATA</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>El Diplomado en Uso de Herramientas para Big Data est&aacute; enfocado en ense&ntilde;ar de forma pr&aacute;ctica el uso de las herramientas que permiten recolectar, procesar, almacenar y analizar informaci&oacute;n de estos vol&uacute;menes masivos de datos.</span></p><p><span></span></p><p><strong>Dirgido a:&nbsp;</strong></p><p><span></span>Estudiantes y profesionales en tecnolog&iacute;as de informaci&oacute;n TI, que requieran aprender o profundizar el desarrollo de aplicaciones empresariales o sitios web utilizando lenguajes de programaci&oacute;n multiplataforma libres y &aacute;giles, y dem&aacute;s personas interesadas en este tema.</p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 14,
+    "title" : "Diplomado en Gerencia de Talento Humano",
+    "summary" : "Conoce los procesos relacionados con talento humano en las organizaciones.",
+    "largeImage" : "img/portfolio/14-large.jpg",
+    "smallImage" : "img/portfolio/14-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #f7f8e0; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN GERENCIA DE TALENTO HUMANO</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Diplomado en Gerencia de Talento Humano conocer&aacute;s los procesos relacionados con talento humano en las organizaciones: Selecci&oacute;n de personal, Planificaci&oacute;n de recursos humanos, Atracci&oacute;n, Incorporaci&oacute;n y Evaluaci&oacute;n.</span></p><p></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 15,
+    "title" : "Diplomado en Teología",
+    "summary" : "Adquiere conocimientos acerca de Dios.",
+    "largeImage" : "img/portfolio/15-large.jpg",
+    "smallImage" : "img/portfolio/15-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%;\"><thead><tr style=\"background-color: #f7f8e0; height: 1px;\"><td style=\"width: 100%; text-align: center;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN TEOLOG&Iacute;A</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Diplomado en Teolog&iacute;a obtendr&aacute;s conocimientos acerca de Dios, sus atributos y sus perfecciones.​ Tambi&eacute;n se estudiar&aacute;n las creencias religiosas como dogmas, conceptos y su divulgaci&oacute;n.</span></p><p></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 16,
+    "title" : "Diplomado en Diseño Gráfico",
+    "summary" : "Aprende técnicas para crear piezas publicitarias.",
+    "largeImage" : "img/portfolio/16-large.jpg",
+    "smallImage" : "img/portfolio/16-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #08c746; height: 18px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center; color: #ffff;\"><strong>DIPLOMADO EN DISE&Ntilde;O GR&Aacute;FICO</strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Diplomado en Dise&ntilde;o Gr&aacute;fico conocer&aacute;s t&eacute;cnicas para materializar las ideas y necesidades publicitarias de las organizaciones. Mediante la metodolog&iacute;a de innovaci&oacute;n INTERLEM&rsquo;D crear&aacute;s piezas publicitarias limpias y modernas con contenidos llamativos que trasmiten la esc&eacute;nica del objetivo organizacional. Manejo e integraci&oacute;n de Herramientas como: Canva, CorelDraw, PhotoShop entre otros.</span></p><p></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 17,
+    "title" : "Diplomado en Marketing Digital",
+    "summary" : "Conoce estrategias de marketing digital.",
+    "largeImage" : "img/portfolio/17-large.jpg",
+    "smallImage" : "img/portfolio/17-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #fcfd17; height: 18px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN MARKETING DIGITAL</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Diplomado en Marketing Digital aprender&aacute;s a desarrollar contenidos modernos orientados a satisfacer los diferentes segmentos de mercados de las organizaciones. Mediante la metodolog&iacute;a de innovaci&oacute;n INTERLEM&rsquo;D crear&aacute;s estrategias de marketing que permiten identificar un p&uacute;blico objetivo acorde a las necesidades organizacionales en las diferentes redes sociales y medios digitales de publicidad.</span></p><p></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 18,
+    "title" : "Diplomado en Base de Datos",
+    "summary" : "Conoce los motores de base de datos SQL y NoSQL: MongoDB, PostgreSQL, Oracle y MySQL",
+    "largeImage" : "img/portfolio/18-large.jpg",
+    "smallImage" : "img/portfolio/18-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #f7f8e0; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>DIPLOMADO EN BASE DE DATOS</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Diplomado en Base de Datos conocer&aacute;s diferentes motores de base de datos como MongoDB, PostgreSQL, Oracle y MySQL, tambi&eacute;n se abordan temas con el lenguaje SQL; consultas simples, anidadas y optimizadas. Aprender&aacute;s a utilizar herramientas de modelado de bases de datos. Se utilizar&aacute; el sistema de contenedores de Docker.</span></p><p><span></span></p><p><strong>Dirgido a:&nbsp;</strong></p><p><span></span>Estudiantes y profesionales en tecnolog&iacute;as de informaci&oacute;n TI, que requieran aprender o profundizar el desarrollo de aplicaciones empresariales o sitios web utilizando lenguajes de programaci&oacute;n multiplataforma libres y &aacute;giles, y dem&aacute;s personas interesadas en este tema.</p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li><span>Nivel Educativo: Noveno grado aprobado</span></li><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora.<span></span></li><li>Certificado del &uacute;ltimo a&ntilde;o cursado y aprobado.</li></ul>"
+  }, {
+    "id" : 19,
+    "title" : "Diplomado en Gerencia de Proyectos",
+    "summary" : "Adquiere habilidades para gestionar proyectos.",
+    "largeImage" : "img/portfolio/19-large.jpg",
+    "smallImage" : "img/portfolio/19-small.jpg",
+    "category" : "DIPLOMADO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong> <span> . </span> </strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #fcfd68; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"> <strong> <span> DIPLOMADO EN GERENCIA DE PROYECTOS </span> </strong> </span></td></tr></thead></table><p><strong style=\"color: #ffffff;\"> . </strong></p><p><span> Con el Diplomado en Gerencia de Proyectos aprender&aacute;s sobre las buenas pr&aacute;cticas de la gerencia de proyectos, as&iacute; como del uso de herramientas de gerencia para el apoyo en el logro de los objetivos organizacionales. </span></p><p><strong> Requisitos </strong> <strong> <span> </span> </strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 20,
+    "title" : "Curso de Ajedrez",
+    "summary" : "Aprende como un niño y juega como un profesional.",
+    "largeImage" : "img/portfolio/20-large.jpg",
+    "smallImage" : "img/portfolio/20-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #a0fb0e; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE AJEDREZ</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Curso de Ajedrez los movimientos b&aacute;sicos de las fichas. Aprender&aacute;s como un ni&ntilde;o y jugaras como un profesional.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 21,
+    "title" : "Curso de Mantenimiento de Computadores",
+    "summary" : "Aprende técnicas de Mantenimiento Hardware y software",
+    "largeImage" : "img/portfolio/21-large.jpg",
+    "smallImage" : "img/portfolio/21-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #a0fb0e; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE MANTENIMIENTO DE COMPUTADORES</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>Aprende t&eacute;cnicas de Mantenimiento preventivo y correctivo del Hardware y software en los computadores. Conoce los diferentes dispositivos, marcas, ventajas y desventajas, funcionamiento y cambios de piezas.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 22,
+    "title" : "Curso de Fundamentos de Programación",
+    "summary" : "Aprende Algoritmia, lenguajes de programación y estructura de datos.",
+    "largeImage" : "img/portfolio/22-large.jpg",
+    "smallImage" : "img/portfolio/22-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #a0fb0e; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE FUNDAMENTOS DE PROGRAMACI&Oacute;N</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Curso de Fundamentos de Programaci&oacute;n aprender&aacute;s todo el conjunto de herramientas utilizado para hacer algoritmos. Conocer&aacute;s diferentes lenguajes de programaci&oacute;n y la estructura b&aacute;sica de datos. Crearas tus primeros programas en lenguaje Java.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 23,
+    "title" : "Curso de Informática Básica",
+    "summary" : "Aprende a manejar Word, Excel y PowerPoint.",
+    "largeImage" : "img/portfolio/23-large.jpg",
+    "smallImage" : "img/portfolio/23-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #a0fb0e; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE INFORM&Aacute;TICA B&Aacute;SICA</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>Con el Curso de Inform&aacute;tica B&aacute;sica aprender&aacute;s a crear cartas y oficios con t&eacute;cnicas de oficina, utilizaras adecuadamente las herramientas de los programas de Word, Excel y PowerPoint. En Excel conocer&aacute;s la forma de crear tablas y aplicar f&oacute;rmulas. En PowerPoint podr&aacute;s crear presentaciones limpias y llamativas.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 24,
+    "title" : "Curso de Ortografía",
+    "summary" : "Aprende ortografía.",
+    "largeImage" : "img/portfolio/24-large.jpg",
+    "smallImage" : "img/portfolio/24-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #ffbf75; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE ORTOGRAF&Iacute;A</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>Con el Curso de Ortograf&iacute;a aprender&aacute;s a diferenciar las palabras y aplicar reglas gramaticales b&aacute;sicas para la correcta expresi&oacute;n oral y escrita. Entender&aacute;s la importancia de escribir correctamente y podr&aacute;s aplicarlo en tu entorno diario. Esto te permitir&aacute; mostrarte al mundo como una persona educada, culta y con buenos principios.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  }, {
+    "id" : 25,
+    "title" : "Curso de Lenguaje de Señas",
+    "summary" : "Aprende a comunicarte con lenguaje de señas.",
+    "largeImage" : "img/portfolio/25-large.jpg",
+    "smallImage" : "img/portfolio/25-small.jpg",
+    "category" : "CURSO",
+    "urlShared" : "",
+    "html" : "<p style=\"text-align: center; color: #ffffff;\"><strong><span>.</span></strong></p><table border=\"1\" style=\"border-collapse: collapse; width: 100%; height: 18px;\"><thead><tr style=\"background-color: #ffbf75; height: 1px;\"><td style=\"width: 100%; text-align: center; height: 18px;\"><span style=\"text-align: center;\"><strong><span>CURSO DE LENGUAJE DE SE&Ntilde;AS</span></strong></span></td></tr></thead></table><p><strong style=\"color: #ffffff;\">.</strong></p><p><span>En el Curso de Lenguaje de Se&ntilde;as aprender&aacute;s que las lenguas de signos son lenguas naturales de producci&oacute;n gestual y percepci&oacute;n visual que tienen estructuras gramaticales perfectamente definidas y que son distintas de las lenguas orales.</span></p><p><strong>Requisitos</strong><strong><span></span></strong></p><ul><li>Competencias B&aacute;sicas: Lecto-escritura, matem&aacute;tica b&aacute;sica, razonamiento abstracto y comprensi&oacute;n lectora. <span> </span></li></ul>"
+  } ],
   "Services": [
     {
       "icon": "fa fa-wordpress",
@@ -132,53 +331,53 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Edgar Núñez",
+      "job": "Rector y Docente"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Luz Stella Sánchez",
+      "job": "Directora y Docente"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Lina Marcela Durán",
+      "job": "Docente"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Daniel David Durán",
+      "job": "Administrativo y Docente"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Carrera 24 # 23-05 Yopal - Casanare - Colombia ",
+    "phone": "3142981372 - 3147616418",
+    "email": "info@interlemd.edu.co",
+    "facebook": "https://www.facebook.com/itlaboralinterlemd",
+    "instagram": "https://www.instagram.com/itlaboralinterlemd",
+    "youtube": "youtube.com",
+    "whatsapp": "https://wa.me/3142981372?text=Hola,%20vi%20un%20anuncio%20en%20interlemd.edu.co%20y%20quisiera%20conocer%20m%C3%A1s%20sobre%20tus%20programas"    
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Estudiante",
+      "text": "Ingreso al Campus Virtual.",
+      "href":"https://campus.interlemd.edu.co"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-pencil-square",
+      "title": "Docente",
+      "text": "Ingreso al Campus Virtual.",
+      "href":"https://campus.interlemd.edu.co"
+    },
+    {
+      "icon": "fa fa-sitemap",
+      "title": "Administrativo",
+      "text": "Ingreso a Platforma.",
+      "href":"https://p3i.interlemd.online"
     }
+   
   ]
 }
